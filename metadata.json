@@ -1,0 +1,5 @@
+{
+  "name": "Optimal Business Location Recommender",
+  "description": "An AI-powered application that recommends the best commercial districts for a specific business type and target demographic, based on detailed analysis.",
+  "requestFramePermissions": []
+}
